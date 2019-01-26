@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26430.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AppCRUD-EmpleadoDB", "AppCRUD-EmpleadoDB\AppCRUD-EmpleadoDB.csproj", "{CBFEA4A2-2833-49F6-89CA-2C1031690895}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AppCRUD-EmpleadoDB.Models", "AppCRUD-EmpleadoDB.Models\AppCRUD-EmpleadoDB.Models.csproj", "{1C74A17B-13DD-4F02-B7FF-0EFCF1074747}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CBFEA4A2-2833-49F6-89CA-2C1031690895}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CBFEA4A2-2833-49F6-89CA-2C1031690895}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CBFEA4A2-2833-49F6-89CA-2C1031690895}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CBFEA4A2-2833-49F6-89CA-2C1031690895}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1C74A17B-13DD-4F02-B7FF-0EFCF1074747}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1C74A17B-13DD-4F02-B7FF-0EFCF1074747}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1C74A17B-13DD-4F02-B7FF-0EFCF1074747}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1C74A17B-13DD-4F02-B7FF-0EFCF1074747}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

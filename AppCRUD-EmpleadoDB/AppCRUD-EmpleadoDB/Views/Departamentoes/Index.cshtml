@@ -1,0 +1,35 @@
+﻿@model IEnumerable<AppCRUD_EmpleadoDB.Models.Models.Departamento>
+
+@{
+    ViewBag.Title = "Index";
+}
+<center>
+    <img src="@Url.Content("~/Images/logo.png")" width="500px" height="200px" alt="imgf" />
+</center>
+<h2>Index</h2>
+
+<p>
+    @Html.ActionLink("Crear Nuevo", "Create")
+</p>
+<table class="table">
+    <tr>
+        <th>
+            @Html.DisplayNameFor(model => model.Descripcion)
+        </th>
+        <th></th>
+    </tr>
+
+@foreach (var item in Model) {
+    <tr>
+        <td>
+            @Html.DisplayFor(modelItem => item.Descripcion)
+        </td>
+        <td>
+            @Html.ActionLink("Editar", "Edit", new { id=item.CodDep }) |
+            @Html.ActionLink("Detalles", "Details", new { id=item.CodDep }) |
+            @Html.ActionLink("Eliminar", "Delete", new { id=item.CodDep })
+        </td>
+    </tr>
+}
+
+</table>

@@ -1,0 +1,10 @@
+c:\users\eduard\documents\visual studio 2017\Projects\AppCRUD-EmpleadoDB\AppCRUD-EmpleadoDB.Models\bin\Debug\AppCRUD-EmpleadoDB.Models.dll.config
+c:\users\eduard\documents\visual studio 2017\Projects\AppCRUD-EmpleadoDB\AppCRUD-EmpleadoDB.Models\bin\Debug\AppCRUD-EmpleadoDB.Models.dll
+c:\users\eduard\documents\visual studio 2017\Projects\AppCRUD-EmpleadoDB\AppCRUD-EmpleadoDB.Models\bin\Debug\AppCRUD-EmpleadoDB.Models.pdb
+c:\users\eduard\documents\visual studio 2017\Projects\AppCRUD-EmpleadoDB\AppCRUD-EmpleadoDB.Models\bin\Debug\EntityFramework.dll
+c:\users\eduard\documents\visual studio 2017\Projects\AppCRUD-EmpleadoDB\AppCRUD-EmpleadoDB.Models\bin\Debug\EntityFramework.SqlServer.dll
+c:\users\eduard\documents\visual studio 2017\Projects\AppCRUD-EmpleadoDB\AppCRUD-EmpleadoDB.Models\bin\Debug\EntityFramework.xml
+c:\users\eduard\documents\visual studio 2017\Projects\AppCRUD-EmpleadoDB\AppCRUD-EmpleadoDB.Models\bin\Debug\EntityFramework.SqlServer.xml
+c:\users\eduard\documents\visual studio 2017\Projects\AppCRUD-EmpleadoDB\AppCRUD-EmpleadoDB.Models\obj\Debug\AppCRUD-EmpleadoDB.Models.csprojResolveAssemblyReference.cache
+c:\users\eduard\documents\visual studio 2017\Projects\AppCRUD-EmpleadoDB\AppCRUD-EmpleadoDB.Models\obj\Debug\AppCRUD-EmpleadoDB.Models.dll
+c:\users\eduard\documents\visual studio 2017\Projects\AppCRUD-EmpleadoDB\AppCRUD-EmpleadoDB.Models\obj\Debug\AppCRUD-EmpleadoDB.Models.pdb
